@@ -1,0 +1,11 @@
+C:\Dev\c# class\DND Dice\DND Dice\bin\Debug\DND Dice.exe.config
+C:\Dev\c# class\DND Dice\DND Dice\bin\Debug\DND Dice.exe
+C:\Dev\c# class\DND Dice\DND Dice\bin\Debug\DND Dice.pdb
+C:\Dev\c# class\DND Dice\DND Dice\obj\Debug\DND Dice.csproj.AssemblyReference.cache
+C:\Dev\c# class\DND Dice\DND Dice\obj\Debug\DND Dice.csproj.SuggestedBindingRedirects.cache
+C:\Dev\c# class\DND Dice\DND Dice\obj\Debug\DND_Dice.Form1.resources
+C:\Dev\c# class\DND Dice\DND Dice\obj\Debug\DND_Dice.Properties.Resources.resources
+C:\Dev\c# class\DND Dice\DND Dice\obj\Debug\DND Dice.csproj.GenerateResource.cache
+C:\Dev\c# class\DND Dice\DND Dice\obj\Debug\DND Dice.csproj.CoreCompileInputs.cache
+C:\Dev\c# class\DND Dice\DND Dice\obj\Debug\DND Dice.exe
+C:\Dev\c# class\DND Dice\DND Dice\obj\Debug\DND Dice.pdb
